@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Product A",
+    "category": "moisturizer",
+    "price": 450,
+    "skin_types": ["dry", "normal"],
+    "concerns": ["dryness"],
+    "ingredients": ["glycerin", "ceramides"],
+    "fragrance_free": true
+  },
+  {
+    "name": "Product B",
+    "category": "moisturizer",
+    "price": 400,
+    "skin_types": ["oily", "combination"],
+    "concerns": ["acne"],
+    "ingredients": ["niacinamide"],
+    "fragrance_free": true
+  }
+]
